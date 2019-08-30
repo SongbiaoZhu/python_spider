@@ -33,3 +33,6 @@ Spyder中安装第三方库：在控制台输入 !pip install 包的名称
 !pip install pypinyin
 ```
 
+## Troubleshooting
+
+* 软件安装使用一段时间后，发现Spyder打开时总是crash失败，report bug也未能解决问题。这是尝试了卸载Anaconda软件，再重启电脑后重新安装发现仍然报错。后来发现，点击window菜单栏Anaconda3文件夹下的 Reset Spyder Settings，就可以解决问题。再打开Spyder就可以正常打开了。
