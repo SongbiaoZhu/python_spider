@@ -6,7 +6,7 @@
 
 pdf2png.py
 
-问题是该exe尚未运行成功，还需要进一步debug，看看是不是下面的这个代码问题。
+已经worked.
 
 ```python
 # -*- coding: utf-8 -*-
@@ -28,7 +28,7 @@ def main(path):
         if f.endswith(".pdf"):
             pdfs.append(f)
     for pdf in pdfs:
-        doc = fitz.open(pdf)
+        doc = fitz.open(os.path.join(path, pdf))
         fname = pdf.split('.')[0]
         for pg in range(doc.pageCount):
             page = doc[pg]
@@ -37,7 +37,7 @@ def main(path):
             zoom_y = 2.0
             trans = fitz.Matrix(zoom_x, zoom_y).preRotate(rotate)
             pm = page.getPixmap(matrix=trans, alpha=False)
-            pm.writePNG('{}_{}.png'.format(fname,pg))
+            pm.writePNG('{}\\{}_{}.png'.format(path,fname,pg))
     print('转换完成')
     input("Press Enter to exit...")
 
@@ -45,6 +45,7 @@ if __name__ == "__main__":
     print('请选择要转为图片的pdf存储路径')
     path = easygui.diropenbox()
     main(path)
+
 
 ```
 
