@@ -108,7 +108,7 @@ class plmmSpider:
             for x in imgurl:
                 self.downloadImage(x, imgTitle)
                 
-outDir = 'F:/LifeLibrary/pics/pics_spider/plmm'
+outDir = 'F:/LifeLibrary/pics/pics_spider/plmm/'
 plmm = plmmSpider()
 plmm.setOutDir(outDir)
 plmm.showParams()
