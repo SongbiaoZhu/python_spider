@@ -105,11 +105,9 @@ def getImgurl(url):
     imgurl = ''
     x = soup.find("div",{"class":"ImageBody"})
     # print(x)
-    try:
-        imgurl = x.p.a.img.get('src')
-    except:
-        imgurl = x.p.img.get('src')
-    # print(imgurl)
+    for xx in x.findAll(src= re.compile('.jpg')):
+        # print(xx.get('src'))
+        imgurl = xx.get('src')
     return imgurl
 
 def getImgTitle(url):

@@ -19,8 +19,10 @@ import re
 class umeiSpider:
     def __init__(self):
         self.params={
-            'category', 'meinvtupian',
-            'subcategory', 'meinvxiezhen'
+            'category':'meinvtupian',
+            'subcategory':'meinvxiezhen',
+            'startPage':0,
+            'endPage':5
             }
         self.out_dir= './'
         self.page = 'http://www.umei.cc/' 
@@ -124,11 +126,9 @@ class umeiSpider:
         imgurl = ''
         x = soup.find("div",{"class":"ImageBody"})
         # print(x)
-        try:
-            imgurl = x.p.a.img.get('src')
-        except:
-            imgurl = x.p.img.get('src')
-        # print(imgurl)
+        for xx in x.findAll(src= re.compile('.jpg')):
+            # print(xx.get('src'))
+            imgurl = xx.get('src')
         return imgurl
     
     def getImgTitle(self, url):
@@ -158,3 +158,29 @@ class umeiSpider:
         except:
             print("图片保存失败")  
             
+    def query(self):
+        url = self.getSubPage()
+        pageNum = self.getPageNum(url)
+        pageUrl = self.getPageUrl(url, pageNum)
+        start = self.params['startPage'] 
+        end = self.params['endPage']
+        for url in pageUrl[start:end]:
+            albumCovers = self.getCoverURL(url)
+            for url in albumCovers:
+                imgNum = self.getImgNum(url)
+                imgPageUrl = self.getImgPageUrl(url, imgNum)
+                for url in imgPageUrl:
+                    print(url)
+                    imgurl = self.getImgurl(url)
+                    imgTitle = self.getImgTitle(url)
+                    self.downloadImage(imgurl, imgTitle)
+
+outDir = 'F:/LifeLibrary/pics/pics_spider/umei/'
+umei = umeiSpider()
+umei.setOutDir(outDir)
+umei.showParams()
+umei.setParams({'category':'meinvtupian', 
+                'subcategory':'meinvxiezhen',
+                'startPage':0,
+                'endPage':10})
+umei.query()
