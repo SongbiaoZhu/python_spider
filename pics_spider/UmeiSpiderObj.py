@@ -2,9 +2,10 @@
 """
 Object Oritation Programming
 Umei_spider
-http://www.umei.cc/tags/
+http://www.umei.cc/
 
 WARNING: Do not use the images crawled with this script for commercial use!!
+本代码爬取图片来自网络，仅供个人学习交流使用，版权归原作者所有，请勿用于任何商业用途！
 Created on Fri Jan  3 16:15:33 2020
 
 @author: samsung
