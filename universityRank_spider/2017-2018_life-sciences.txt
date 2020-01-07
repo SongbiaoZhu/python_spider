@@ -1,0 +1,503 @@
+Rank	Name	Country/Region	Score	
+1	Harvard University	United States	94.8	
+2	University of Cambridge	United Kingdom	94.3	
+3	University of Oxford	United Kingdom	93.8	
+4	Stanford University	United States	92.5	
+5	Massachusetts Institute of Technology	United States	91.9	
+6	Johns Hopkins University	United States	91.7	
+7	Princeton University	United States	91.3	
+8	California Institute of Technology	United States	91.2	
+9	Yale University	United States	90.1	
+10	Imperial College London	United Kingdom	87.6	
+11	University of Chicago	United States	87.2	
+12	University of California, San Diego	United States	86.8	
+13	ETH Zurich – Swiss Federal Institute of Technology Zurich	Switzerland	86.2	
+14	Cornell University	United States	86.1	
+15	Columbia University	United States	85.7	
+16	Duke University	United States	84.8	
+17	University of Pennsylvania	United States	84.6	
+18	University of California, Berkeley	United States	84	
+19	University of California, Los Angeles	United States	83.9	
+20	Wageningen University & Research	Netherlands	83.7	
+21	University of British Columbia	Canada	82.5	
+22	University of Toronto	Canada	82.4	
+23	University of Edinburgh	United Kingdom	81.8	
+23	Peking University	China	81.8	
+25	Karolinska Institute	Sweden	80.7	
+26	National University of Singapore	Singapore	80.2	
+27	University of Michigan	United States	79.9	
+28	University of California, Davis	United States	79.6	
+29	Washington University in St Louis	United States	79.2	
+30	King’s College London	United Kingdom	75.6	
+31	McGill University	Canada	74.7	
+32	University of Melbourne	Australia	74.1	
+33	École Polytechnique Fédérale de Lausanne	Switzerland	73.8	
+34	Heidelberg University	Germany	72.5	
+34	University of Queensland	Australia	72.5	
+36	University of Tokyo	Japan	72.3	
+37	Kyoto University	Japan	71.8	
+38	Uppsala University	Sweden	71.2	
+39	LMU Munich	Germany	71	
+40	University of Wisconsin-Madison	United States	68.8	
+41	University of Hong Kong	Hong Kong, China	68.5	
+42	Northwestern University	United States	68.1	
+43	Technical University of Munich	Germany	68	
+44	Ghent University	Belgium	67.8	
+45	Australian National University	Australia	67.7	
+46	Lund University	Sweden	67.3	
+47	University of Sydney	Australia	66.7	
+48	Emory University	United States	65.7	
+49	University of Glasgow	United Kingdom	65.5	
+50	Humboldt University of Berlin	Germany	65.3	
+51	University of Manchester	United Kingdom	65.1	
+51	University of Minnesota	United States	65.1	
+53	Pierre and Marie Curie University	France	64.9	
+54	University of North Carolina at Chapel Hill	United States	64.8	
+55	University of Dundee	United Kingdom	64.7	
+55	University of Texas at Austin	United States	64.7	
+57	University of California, Santa Barbara	United States	64.5	
+58	Osaka University	Japan	64.3	
+59	Utrecht University	Netherlands	64.2	
+60	University of Göttingen	Germany	64.1	
+61	University of Geneva	Switzerland	64	
+62	KU Leuven	Belgium	63.6	
+63	University of Helsinki	Finland	63.4	
+64	University of Tübingen	Germany	63.2	
+65	Stockholm University	Sweden	63.1	
+66	University of Illinois at Urbana-Champaign	United States	62.6	
+67	University of Lausanne	Switzerland	62.5	
+68	University of Zurich	Switzerland	62.4	
+69	University of Western Australia	Australia	62.2	
+70	University of Freiburg	Germany	62.1	
+71	University of Colorado Boulder	United States	61.9	
+72	University of St Andrews	United Kingdom	61.2	
+73	Pennsylvania State University	United States	60.9	
+74	Michigan State University	United States	60.6	
+75	Paris Sciences et Lettres – PSL Research University Paris	France	60.5	
+76	University of Bristol	United Kingdom	60.4	
+77	Trinity College Dublin	Ireland	60.3	
+78	University of Groningen	Netherlands	60.1	
+79	University of Aberdeen	United Kingdom	59.9	
+80	Korea Advanced Institute of Science and Technology (KAIST)	South Korea	59.8	
+81	University of Bonn	Germany	59.2	
+82	University of Exeter	United Kingdom	58.6	
+82	Vanderbilt University	United States	58.6	
+84	University of Science and Technology of China	China	58.5	
+85	Aarhus University	Denmark	58.1	
+86	Hong Kong University of Science and Technology	Hong Kong, China	57.9	
+87	University of Maryland, College Park	United States	57.8	
+88	Free University of Berlin	Germany	57.7	
+89	University of East Anglia	United Kingdom	57.5	
+89	University of Leeds	United Kingdom	57.5	
+91	University of Basel	Switzerland	57.4	
+92	Newcastle University	United Kingdom	57.3	
+93	University of New South Wales	Australia	57.2	
+93	University of York	United Kingdom	57.2	
+95	University of Vienna	Austria	57	
+96	University of California, Riverside	United States	56.9	
+97	Arizona State University	United States	56.7	
+97	Monash University	Australia	56.7	
+99	University of Florida	United States	56.5	
+100	Brown University	United States	56.4	
+101–125	University of Adelaide	Australia	53.5–56.2	
+101–125	University of Alberta	Canada	53.5–56.2	
+101–125	University of Birmingham	United Kingdom	53.5–56.2	
+101–125	University of California, Irvine	United States	53.5–56.2	
+101–125	University of California, Santa Cruz	United States	53.5–56.2	
+101–125	University of Cologne	Germany	53.5–56.2	
+101–125	Technical University of Denmark	Denmark	53.5–56.2	
+101–125	École Polytechnique	France	53.5–56.2	
+101–125	Fudan University	China	53.5–56.2	
+101–125	James Cook University	Australia	53.5–56.2	
+101–125	Lomonosov Moscow State University	Russian Federation	53.5–56.2	
+101–125	Maastricht University	Netherlands	53.5–56.2	
+101–125	McMaster University	Canada	53.5–56.2	
+101–125	University of Montreal	Canada	53.5–56.2	
+101–125	University of Nottingham	United Kingdom	53.5–56.2	
+101–125	Ohio State University	United States	53.5–56.2	
+101–125	Oregon State University	United States	53.5–56.2	
+101–125	Paris-Sud University	France	53.5–56.2	
+101–125	Pohang University of Science and Technology	South Korea	53.5–56.2	
+101–125	Rice University	United States	53.5–56.2	
+101–125	Seoul National University	South Korea	53.5–56.2	
+101–125	University of Sheffield	United Kingdom	53.5–56.2	
+101–125	Swedish University of Agricultural Sciences	Sweden	53.5–56.2	
+101–125	TU Dresden	Germany	53.5–56.2	
+101–125	University of Würzburg	Germany	53.5–56.2	
+126–150	Aberystwyth University	United Kingdom	50.6–53.2	
+126–150	University of Barcelona	Spain	50.6–53.2	
+126–150	University of Cape Town	South Africa	50.6–53.2	
+126–150	Cardiff University	United Kingdom	50.6–53.2	
+126–150	Dartmouth College	United States	50.6–53.2	
+126–150	Hebrew University of Jerusalem	Israel	50.6–53.2	
+126–150	University of Iceland	Iceland	50.6–53.2	
+126–150	Indiana University	United States	50.6–53.2	
+126–150	Iowa State University	United States	50.6–53.2	
+126–150	King Abdulaziz University	Saudi Arabia	50.6–53.2	
+126–150	University of Konstanz	Germany	50.6–53.2	
+126–150	University of Massachusetts	United States	50.6–53.2	
+126–150	Nagoya University	Japan	50.6–53.2	
+126–150	University of Oslo	Norway	50.6–53.2	
+126–150	Queen Mary University of London	United Kingdom	50.6–53.2	
+126–150	Radboud University Nijmegen	Netherlands	50.6–53.2	
+126–150	University of Reading	United Kingdom	50.6–53.2	
+126–150	Royal Holloway, University of London	United Kingdom	50.6–53.2	
+126–150	University of São Paulo	Brazil	50.6–53.2	
+126–150	Stony Brook University	United States	50.6–53.2	
+126–150	University of Tartu	Estonia	50.6–53.2	
+126–150	University of Tasmania	Australia	50.6–53.2	
+126–150	Umeå University	Sweden	50.6–53.2	
+126–150	Vrije Universiteit Amsterdam	Netherlands	50.6–53.2	
+126–150	University of Warwick	United Kingdom	50.6–53.2	
+126–150	Zhejiang University	China	50.6–53.2	
+151–175	University of Arizona	United States	48.9–50.5	
+151–175	University of Auckland	New Zealand	48.9–50.5	
+151–175	University of Bergen	Norway	48.9–50.5	
+151–175	University of Bern	Switzerland	48.9–50.5	
+151–175	University of Bremen	Germany	48.9–50.5	
+151–175	University of Delaware	United States	48.9–50.5	
+151–175	Durham University	United Kingdom	48.9–50.5	
+151–175	École Normale Supérieure de Lyon	France	48.9–50.5	
+151–175	Goethe University Frankfurt	Germany	48.9–50.5	
+151–175	Lancaster University	United Kingdom	48.9–50.5	
+151–175	University of Liverpool	United Kingdom	48.9–50.5	
+151–175	Université Catholique de Louvain	Belgium	48.9–50.5	
+151–175	Nanjing University	China	48.9–50.5	
+151–175	University of Oregon	United States	48.9–50.5	
+151–175	Queen’s University Belfast	United Kingdom	48.9–50.5	
+151–175	Royal Veterinary College	United Kingdom	48.9–50.5	
+151–175	Rutgers, the State University of New Jersey	United States	48.9–50.5	
+151–175	Scuola Superiore Sant’Anna	Italy	48.9–50.5	
+151–175	University of Strasbourg	France	48.9–50.5	
+151–175	Tohoku University	Japan	48.9–50.5	
+151–175	Ulm University	Germany	48.9–50.5	
+151–175	University College Cork	Ireland	48.9–50.5	
+151–175	University of Utah	United States	48.9–50.5	
+151–175	University of Virginia	United States	48.9–50.5	
+176–200	University of Antwerp	Belgium	46.2–48.8	
+176–200	Autonomous University of Barcelona	Spain	46.2–48.8	
+176–200	Bangor University	United Kingdom	46.2–48.8	
+176–200	University of Bayreuth	Germany	46.2–48.8	
+176–200	University of Bordeaux	France	46.2–48.8	
+176–200	Delft University of Technology	Netherlands	46.2–48.8	
+176–200	George Washington University	United States	46.2–48.8	
+176–200	University of Gothenburg	Sweden	46.2–48.8	
+176–200	University of Hamburg	Germany	46.2–48.8	
+176–200	University of Hawai’i at Mānoa	United States	46.2–48.8	
+176–200	Hokkaido University	Japan	46.2–48.8	
+176–200	La Trobe University	Australia	46.2–48.8	
+176–200	Université Libre de Bruxelles	Belgium	46.2–48.8	
+176–200	Macquarie University	Australia	46.2–48.8	
+176–200	Montpellier University	France	46.2–48.8	
+176–200	North Carolina State University	United States	46.2–48.8	
+176–200	University of Otago	New Zealand	46.2–48.8	
+176–200	Plymouth University	United Kingdom	46.2–48.8	
+176–200	University of Potsdam	Germany	46.2–48.8	
+176–200	Queensland University of Technology	Australia	46.2–48.8	
+176–200	University of Rochester	United States	46.2–48.8	
+176–200	Sungkyunkwan University (SKKU)	South Korea	46.2–48.8	
+176–200	Texas A&M University	United States	46.2–48.8	
+176–200	Tufts University	United States	46.2–48.8	
+176–200	University College Dublin	Ireland	46.2–48.8	
+201–250	Aix-Marseille University	France	41.9–46.1	
+201–250	Autonomous University of Madrid	Spain	41.9–46.1	
+201–250	University of Bath	United Kingdom	41.9–46.1	
+201–250	Brandeis University	United States	41.9–46.1	
+201–250	University of Calgary	Canada	41.9–46.1	
+201–250	University of Canterbury	New Zealand	41.9–46.1	
+201–250	Case Western Reserve University	United States	41.9–46.1	
+201–250	Charles Darwin University	Australia	41.9–46.1	
+201–250	Colorado State University	United States	41.9–46.1	
+201–250	University of Eastern Finland	Finland	41.9–46.1	
+201–250	University of Fribourg	Switzerland	41.9–46.1	
+201–250	Grenoble Alpes University	France	41.9–46.1	
+201–250	University of Hohenheim	Germany	41.9–46.1	
+201–250	Indian Institute of Science	India	41.9–46.1	
+201–250	University of Innsbruck	Austria	41.9–46.1	
+201–250	University of Iowa	United States	41.9–46.1	
+201–250	Johannes Gutenberg University of Mainz	Germany	41.9–46.1	
+201–250	Keio University	Japan	41.9–46.1	
+201–250	University of Kent	United Kingdom	41.9–46.1	
+201–250	University of Kiel	Germany	41.9–46.1	
+201–250	Kyushu University	Japan	41.9–46.1	
+201–250	Laval University	Canada	41.9–46.1	
+201–250	University of Leicester	United Kingdom	41.9–46.1	
+201–250	Massey University	New Zealand	41.9–46.1	
+201–250	University of Miami	United States	41.9–46.1	
+201–250	University of Montana	United States	41.9–46.1	
+201–250	National Taiwan University	Taiwan, China	41.9–46.1	
+201–250	National Tsing Hua University	Taiwan, China	41.9–46.1	
+201–250	University of Neuchâtel	Switzerland	41.9–46.1	
+201–250	Northern Arizona University	United States	41.9–46.1	
+201–250	University of Padua	Italy	41.9–46.1	
+201–250	Paris Diderot University – Paris 7	France	41.9–46.1	
+201–250	University of Rovira i Virgili	Spain	41.9–46.1	
+201–250	Ruhr University Bochum	Germany	41.9–46.1	
+201–250	Saint Petersburg State University	Russian Federation	41.9–46.1	
+201–250	San Diego State University	United States	41.9–46.1	
+201–250	Simon Fraser University	Canada	41.9–46.1	
+201–250	University of Southern Denmark	Denmark	41.9–46.1	
+201–250	Stellenbosch University	South Africa	41.9–46.1	
+201–250	University of Stirling	United Kingdom	41.9–46.1	
+201–250	University of Sussex	United Kingdom	41.9–46.1	
+201–250	Technion Israel Institute of Technology	Israel	41.9–46.1	
+201–250	University of Technology Sydney	Australia	41.9–46.1	
+201–250	Tel Aviv University	Israel	41.9–46.1	
+201–250	Tokyo Institute of Technology	Japan	41.9–46.1	
+201–250	University of Trento	Italy	41.9–46.1	
+201–250	University of Turku	Finland	41.9–46.1	
+201–250	University of Victoria	Canada	41.9–46.1	
+201–250	Wake Forest University	United States	41.9–46.1	
+201–250	Washington State University	United States	41.9–46.1	
+251–300	University of Alaska Fairbanks	United States	38.4–41.8	
+251–300	Alfaisal University	Saudi Arabia	38.4–41.8	
+251–300	Bielefeld University	Germany	38.4–41.8	
+251–300	Boston College	United States	38.4–41.8	
+251–300	University of Cincinnati	United States	38.4–41.8	
+251–300	Claude Bernard University Lyon 1	France	38.4–41.8	
+251–300	University of Coimbra	Portugal	38.4–41.8	
+251–300	University of Connecticut	United States	38.4–41.8	
+251–300	University of Crete	Greece	38.4–41.8	
+251–300	Dalhousie University	Canada	38.4–41.8	
+251–300	Deakin University	Australia	38.4–41.8	
+251–300	Dublin City University	Ireland	38.4–41.8	
+251–300	University of Electronic Science and Technology of China	China	38.4–41.8	
+251–300	Federal University of Toulouse Midi-Pyrénées	France	38.4–41.8	
+251–300	University of Georgia	United States	38.4–41.8	
+251–300	University of Graz	Austria	38.4–41.8	
+251–300	Griffith University	Australia	38.4–41.8	
+251–300	Hanyang University	South Korea	38.4–41.8	
+251–300	Hasselt University	Belgium	38.4–41.8	
+251–300	Heriot-Watt University	United Kingdom	38.4–41.8	
+251–300	University of Hull	United Kingdom	38.4–41.8	
+251–300	University of Illinois at Chicago	United States	38.4–41.8	
+251–300	Indian Institute of Technology Bombay	India	38.4–41.8	
+251–300	University of Kaiserslautern	Germany	38.4–41.8	
+251–300	Korea University	South Korea	38.4–41.8	
+251–300	University of Liège	Belgium	38.4–41.8	
+251–300	Loughborough University	United Kingdom	38.4–41.8	
+251–300	University of Macau	Macao	38.4–41.8	
+251–300	University of Marburg	Germany	38.4–41.8	
+251–300	Marche Polytechnic University	Italy	38.4–41.8	
+251–300	Memorial University of Newfoundland	Canada	38.4–41.8	
+251–300	University of Milan	Italy	38.4–41.8	
+251–300	University of Milan-Bicocca	Italy	38.4–41.8	
+251–300	Murdoch University	Australia	38.4–41.8	
+251–300	National University of Ireland, Galway	Ireland	38.4–41.8	
+251–300	University of Nebraska-Lincoln	United States	38.4–41.8	
+251–300	University of Pavia	Italy	38.4–41.8	
+251–300	University of Pisa	Italy	38.4–41.8	
+251–300	University of Québec	Canada	38.4–41.8	
+251–300	Sapienza University of Rome	Italy	38.4–41.8	
+251–300	Southern Cross University	Australia	38.4–41.8	
+251–300	University of Split	Croatia	38.4–41.8	
+251–300	State University of Campinas	Brazil	38.4–41.8	
+251–300	The University of Texas-Knoxville	United States	38.4–41.8	
+251–300	Tokyo Medical and Dental University (TMDU)	Japan	38.4–41.8	
+251–300	UiT The Arctic University of Norway	Norway	38.4–41.8	
+251–300	Université de Versailles Saint-Quentin-en-Yvelines	France	38.4–41.8	
+251–300	Vrije Universiteit Brussel	Belgium	38.4–41.8	
+251–300	Western Sydney University	Australia	38.4–41.8	
+251–300	University of Wollongong	Australia	38.4–41.8	
+301–400	Aligarh Muslim University	India	31.0–38.3	
+301–400	Auckland University of Technology	New Zealand	31.0–38.3	
+301–400	University of Aveiro	Portugal	31.0–38.3	
+301–400	Ben-Gurion University of the Negev	Israel	31.0–38.3	
+301–400	Blaise Pascal University	France	31.0–38.3	
+301–400	University of Bologna	Italy	31.0–38.3	
+301–400	Université Bourgogne Franche-Comté (UBFC)	France	31.0–38.3	
+301–400	University at Buffalo	United States	31.0–38.3	
+301–400	University of Canberra	Australia	31.0–38.3	
+301–400	University of Catania	Italy	31.0–38.3	
+301–400	Central China Normal University	China	31.0–38.3	
+301–400	Charles University in Prague	Czech Republic	31.0–38.3	
+301–400	University of Chile	Chile	31.0–38.3	
+301–400	China Agricultural University	China	31.0–38.3	
+301–400	Complutense University of Madrid	Spain	31.0–38.3	
+301–400	Creighton University	United States	31.0–38.3	
+301–400	East China Normal University	China	31.0–38.3	
+301–400	East China University of Science and Technology	China	31.0–38.3	
+301–400	Edith Cowan University	Australia	31.0–38.3	
+301–400	Eötvös Loránd University	Hungary	31.0–38.3	
+301–400	University of Essex	United Kingdom	31.0–38.3	
+301–400	University of Ferrara	Italy	31.0–38.3	
+301–400	University of Florence	Italy	31.0–38.3	
+301–400	Fuzhou University	China	31.0–38.3	
+301–400	University of Genoa	Italy	31.0–38.3	
+301–400	George Mason University	United States	31.0–38.3	
+301–400	University of Greifswald	Germany	31.0–38.3	
+301–400	Gwangju Institute of Science and Technology	South Korea	31.0–38.3	
+301–400	University of Houston	United States	31.0–38.3	
+301–400	Indian Institute of Technology Delhi	India	31.0–38.3	
+301–400	Justus Liebig University Giessen	Germany	31.0–38.3	
+301–400	University of Jyväskylä	Finland	31.0–38.3	
+301–400	Kansas State University	United States	31.0–38.3	
+301–400	Keele University	United Kingdom	31.0–38.3	
+301–400	King Saud University	Saudi Arabia	31.0–38.3	
+301–400	University of Lille	France	31.0–38.3	
+301–400	University of Limerick	Ireland	31.0–38.3	
+301–400	Lincoln University	New Zealand	31.0–38.3	
+301–400	University of Lisbon	Portugal	31.0–38.3	
+301–400	Liverpool John Moores University	United Kingdom	31.0–38.3	
+301–400	University of Lorraine	France	31.0–38.3	
+301–400	Louisiana State University	United States	31.0–38.3	
+301–400	Mahidol University	Thailand	31.0–38.3	
+301–400	University of Malaya	Malaysia	31.0–38.3	
+301–400	University of Manitoba	Canada	31.0–38.3	
+301–400	University of Maryland, Baltimore County	United States	31.0–38.3	
+301–400	Masaryk University	Czech Republic	31.0–38.3	
+301–400	Medical College of Wisconsin	United States	31.0–38.3	
+301–400	University of Missouri	United States	31.0–38.3	
+301–400	University of Modena and Reggio Emilia	Italy	31.0–38.3	
+301–400	Montana State University	United States	31.0–38.3	
+301–400	Monterrey Institute of Technology and Higher Education	Mexico	31.0–38.3	
+301–400	National and Kapodistrian University of Athens	Greece	31.0–38.3	
+301–400	National Autonomous University of Mexico	Mexico	31.0–38.3	
+301–400	National Chiao Tung University	Taiwan, China	31.0–38.3	
+301–400	University of Nebraska Medical Center	United States	31.0–38.3	
+301–400	University of Newcastle	Australia	31.0–38.3	
+301–400	University of North Carolina at Greensboro	United States	31.0–38.3	
+301–400	Norwegian University of Life Sciences	Norway	31.0–38.3	
+301–400	University of Oklahoma	United States	31.0–38.3	
+301–400	University of Ottawa	Canada	31.0–38.3	
+301–400	University of Oviedo	Spain	31.0–38.3	
+301–400	University of Parma	Italy	31.0–38.3	
+301–400	Polytechnic University of Valencia	Spain	31.0–38.3	
+301–400	Pontifical Catholic University of Chile	Chile	31.0–38.3	
+301–400	University of Porto	Portugal	31.0–38.3	
+301–400	University of Pretoria	South Africa	31.0–38.3	
+301–400	Queen’s University	Canada	31.0–38.3	
+301–400	University of Rome II – Tor Vergata	Italy	31.0–38.3	
+301–400	University of Salento	Italy	31.0–38.3	
+301–400	University of Saskatchewan	Canada	31.0–38.3	
+301–400	Semmelweis University	Hungary	31.0–38.3	
+301–400	Université de Sherbrooke	Canada	31.0–38.3	
+301–400	University of Siena	Italy	31.0–38.3	
+301–400	Soochow University	China	31.0–38.3	
+301–400	University of South Carolina	United States	31.0–38.3	
+301–400	South China University of Technology	China	31.0–38.3	
+301–400	University of Stuttgart	Germany	31.0–38.3	
+301–400	Sun Yat-sen University	China	31.0–38.3	
+301–400	University of Surrey	United Kingdom	31.0–38.3	
+301–400	Technical University of Darmstadt	Germany	31.0–38.3	
+301–400	University of Texas at San Antonio	United States	31.0–38.3	
+301–400	Tokyo University of Science	Japan	31.0–38.3	
+301–400	University of Toledo	United States	31.0–38.3	
+301–400	University of Trieste	Italy	31.0–38.3	
+301–400	University of Tsukuba	Japan	31.0–38.3	
+301–400	University of Turin	Italy	31.0–38.3	
+301–400	University of Valencia	Spain	31.0–38.3	
+301–400	Verona University	Italy	31.0–38.3	
+301–400	Victoria University	Australia	31.0–38.3	
+301–400	Virginia Polytechnic Institute and State University	United States	31.0–38.3	
+301–400	University of Warsaw	Poland	31.0–38.3	
+301–400	Wayne State University	United States	31.0–38.3	
+301–400	Western University	Canada	31.0–38.3	
+301–400	William & Mary	United States	31.0–38.3	
+301–400	Wuhan University	China	31.0–38.3	
+301–400	Xiamen University	China	31.0–38.3	
+301–400	Yokohama City University	Japan	31.0–38.3	
+301–400	Yonsei University (Seoul campus)	South Korea	31.0–38.3	
+301–400	York University	Canada	31.0–38.3	
+401–500	Adam Mickiewicz University	Poland	21.4–30.7	
+401–500	Ajou University	South Korea	21.4–30.7	
+401–500	University of Alcalá	Spain	21.4–30.7	
+401–500	University of Algarve	Portugal	21.4–30.7	
+401–500	University of Alicante	Spain	21.4–30.7	
+401–500	University of Almería	Spain	21.4–30.7	
+401–500	American University of Beirut	Lebanon	21.4–30.7	
+401–500	Andrés Bello University (UNAB)	Chile	21.4–30.7	
+401–500	Annamalai University	India	21.4–30.7	
+401–500	Aristotle University of Thessaloniki	Greece	21.4–30.7	
+401–500	University of Arkansas	United States	21.4–30.7	
+401–500	Asia University, Taiwan	Taiwan, China	21.4–30.7	
+401–500	Auburn University	United States	21.4–30.7	
+401–500	Austral University of Chile	Chile	21.4–30.7	
+401–500	Babeş-Bolyai University	Romania	21.4–30.7	
+401–500	University of Bari Aldo Moro	Italy	21.4–30.7	
+401–500	Bar-Ilan University	Israel	21.4–30.7	
+401–500	University of Brasília	Brazil	21.4–30.7	
+401–500	Brunel University London	United Kingdom	21.4–30.7	
+401–500	University of Bucharest	Romania	21.4–30.7	
+401–500	University of Cagliari	Italy	21.4–30.7	
+401–500	University of Calabria	Italy	21.4–30.7	
+401–500	University of Calcutta	India	21.4–30.7	
+401–500	Chang Gung University	Taiwan, China	21.4–30.7	
+401–500	Chiba University	Japan	21.4–30.7	
+401–500	COMSATS Institute of Information Technology	Pakistan	21.4–30.7	
+401–500	Dalian University of Technology	China	21.4–30.7	
+401–500	University of Delhi	India	21.4–30.7	
+401–500	Ehime University	Japan	21.4–30.7	
+401–500	Federal University of Minas Gerais	Brazil	21.4–30.7	
+401–500	Federal University of Rio de Janeiro	Brazil	21.4–30.7	
+401–500	Federal University of São Paulo (UNIFESP)	Brazil	21.4–30.7	
+401–500	Florida International University	United States	21.4–30.7	
+401–500	Georgia State University	United States	21.4–30.7	
+401–500	University of Granada	Spain	21.4–30.7	
+401–500	University of Haifa	Israel	21.4–30.7	
+401–500	Hiroshima University	Japan	21.4–30.7	
+401–500	Huazhong Agricultural University	China	21.4–30.7	
+401–500	Huazhong University of Science and Technology	China	21.4–30.7	
+401–500	Indian Institute of Technology Guwahati	India	21.4–30.7	
+401–500	Indian Institute of Technology Roorkee	India	21.4–30.7	
+401–500	Isfahan University of Technology	Iran	21.4–30.7	
+401–500	Istanbul University	Turkey	21.4–30.7	
+401–500	Jagiellonian University	Poland	21.4–30.7	
+401–500	Jinan University	China	21.4–30.7	
+401–500	Juntendo University	Japan	21.4–30.7	
+401–500	Kagawa University	Japan	21.4–30.7	
+401–500	Kanazawa University	Japan	21.4–30.7	
+401–500	Kaohsiung Medical University	Taiwan, China	21.4–30.7	
+401–500	Kazan Federal University	Russian Federation	21.4–30.7	
+401–500	Kobe University	Japan	21.4–30.7	
+401–500	Konkuk University	South Korea	21.4–30.7	
+401–500	Kumamoto University	Japan	21.4–30.7	
+401–500	Kuwait University	Kuwait	21.4–30.7	
+401–500	University of KwaZulu-Natal	South Africa	21.4–30.7	
+401–500	Kyung Hee University	South Korea	21.4–30.7	
+401–500	Leibniz University of Hanover	Germany	21.4–30.7	
+401–500	University of Ljubljana	Slovenia	21.4–30.7	
+401–500	Makerere University	Uganda	21.4–30.7	
+401–500	Manchester Metropolitan University	United Kingdom	21.4–30.7	
+401–500	University of Murcia	Spain	21.4–30.7	
+401–500	Nagasaki University	Japan	21.4–30.7	
+401–500	Nanjing Agricultural University	China	21.4–30.7	
+401–500	National Central University	Taiwan, China	21.4–30.7	
+401–500	National Taiwan Ocean University	Taiwan, China	21.4–30.7	
+401–500	National Yang-Ming University	Taiwan, China	21.4–30.7	
+401–500	New Mexico State University	United States	21.4–30.7	
+401–500	Northumbria University	United Kingdom	21.4–30.7	
+401–500	NorthWest A&F University	China	21.4–30.7	
+401–500	Okayama University	Japan	21.4–30.7	
+401–500	Oklahoma State University	United States	21.4–30.7	
+401–500	Palacký University in Olomouc	Czech Republic	21.4–30.7	
+401–500	University of Palermo	Italy	21.4–30.7	
+401–500	Panjab University	India	21.4–30.7	
+401–500	University of Patras	Greece	21.4–30.7	
+401–500	Pontifical Catholic University of Rio Grande do Sul (PUCRS)	Brazil	21.4–30.7	
+401–500	University of Portsmouth	United Kingdom	21.4–30.7	
+401–500	Quaid-i-azam University	Pakistan	21.4–30.7	
+401–500	Saint Louis University	United States	21.4–30.7	
+401–500	Saitama University	Japan	21.4–30.7	
+401–500	University of Salamanca	Spain	21.4–30.7	
+401–500	University of Salford	United Kingdom	21.4–30.7	
+401–500	University of Santiago de Compostela	Spain	21.4–30.7	
+401–500	São Paulo State University (UNESP)	Brazil	21.4–30.7	
+401–500	University of Sassari	Italy	21.4–30.7	
+401–500	Savitribai Phule Pune University	India	21.4–30.7	
+401–500	University of Seville	Spain	21.4–30.7	
+401–500	University of South Dakota	United States	21.4–30.7	
+401–500	Southeast University	China	21.4–30.7	
+401–500	University of Southern Mississippi	United States	21.4–30.7	
+401–500	Sultan Qaboos University	Oman	21.4–30.7	
+401–500	University of the Sunshine Coast	Australia	21.4–30.7	
+401–500	Texas Tech University	United States	21.4–30.7	
+401–500	Tokyo University of Agriculture and Technology	Japan	21.4–30.7	
+401–500	Tongji University	China	21.4–30.7	
+401–500	Ulster University	United Kingdom	21.4–30.7	
+401–500	United Arab Emirates University	United Arab Emirates	21.4–30.7	
+401–500	University of Vigo	Spain	21.4–30.7	
+401–500	Waseda University	Japan	21.4–30.7	
+401–500	University of Windsor	Canada	21.4–30.7	
+401–500	Xi’an Jiaotong University	China	21.4–30.7	
+401–500	University of Zaragoza	Spain	21.4–30.7	

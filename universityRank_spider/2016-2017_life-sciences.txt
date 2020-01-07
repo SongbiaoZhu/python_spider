@@ -1,0 +1,101 @@
+Rank	Name	Country/Region	Score	
+1	Harvard University	United States	93.5	
+2	University of Cambridge	United Kingdom	92.9	
+3	University of Oxford	United Kingdom	91.6	
+4	Stanford University	United States	91.8	
+5	Massachusetts Institute of Technology	United States	87.3	
+6	California Institute of Technology	United States	91.2	
+7	Yale University	United States	88.7	
+8	Princeton University	United States	86.4	
+9	Imperial College London	United Kingdom	81.4	
+10	University of California, Berkeley	United States	84.4	
+11	Johns Hopkins University	United States	83.9	
+12	University College London	United Kingdom	81.1	
+13	University of Chicago	United States	79.8	
+14	ETH Zurich – Swiss Federal Institute of Technology Zurich	Switzerland	81	
+15	Columbia University	United States	80.5	
+16	Wageningen University & Research	Netherlands	80	
+17	Cornell University	United States	80	
+18	University of California, Los Angeles	United States	73.1	
+18	Duke University	United States	75.5	
+20	University of Pennsylvania	United States	80.7	
+21	University of Edinburgh	United Kingdom	73.7	
+22	University of Toronto	Canada	73.4	
+23	Karolinska Institute	Sweden	69	
+24	University of California, San Diego	United States	67.7	
+25	University of British Columbia	Canada	72.5	
+26	Peking University	China	81.2	
+27	University of California, Davis	United States	78.8	
+28	University of Michigan	United States	64.3	
+29	National University of Singapore	Singapore	75.8	
+30	Heidelberg University	Germany	71.8	
+31	King’s College London	United Kingdom	58.3	
+32	University of Queensland	Australia	55.8	
+33	McGill University	Canada	68.5	
+33	University of Wisconsin-Madison	United States	66.4	
+35	École Polytechnique Fédérale de Lausanne	Switzerland	51.5	
+36	LMU Munich	Germany	64.8	
+37	University of Melbourne	Australia	61.8	
+38	University of Tokyo	Japan	87.1	
+39	Australian National University	Australia	48.9	
+40	Uppsala University	Sweden	57.6	
+41	Utrecht University	Netherlands	51.7	
+42	Lund University	Sweden	51.4	
+43	Kyoto University	Japan	80.6	
+44	Technical University of Munich	Germany	54.5	
+45	Boston University	United States	49.9	
+45	Ghent University	Belgium	54.2	
+47	KU Leuven	Belgium	54.9	
+47	Michigan State University	United States	58.6	
+49	Stockholm University	Sweden	43.6	
+50	Northwestern University	United States	48.4	
+51	University of Göttingen	Germany	61.6	
+52	Humboldt University of Berlin	Germany	59.2	
+53	University of Manchester	United Kingdom	50.1	
+53	Pennsylvania State University	United States	51	
+55	University of Geneva	Switzerland	36.6	
+56	University of California, Santa Barbara	United States	35.9	
+56	University of Minnesota	United States	48.1	
+58	University of Helsinki	Finland	56.2	
+59	University of North Carolina at Chapel Hill	United States	39.2	
+60	University of Sydney	Australia	52.4	
+61	University of Hong Kong	Hong Kong, China	55.6	
+62	University of Dundee	United Kingdom	32.7	
+62	University of Glasgow	United Kingdom	43.6	
+62	University of Lausanne	Switzerland	34.9	
+65	University of Zurich	Switzerland	47.2	
+66	University of Bristol	United Kingdom	47.7	
+67	University of Western Australia	Australia	40.3	
+68	University of Amsterdam	Netherlands	43.3	
+69	Emory University	United States	47.9	
+69	Pierre and Marie Curie University	France	56.7	
+71	University of Bonn	Germany	46.1	
+72	University of Colorado Boulder	United States	37.8	
+73	University of Groningen	Netherlands	41.5	
+74	University of Illinois at Urbana-Champaign	United States	47.9	
+75	Osaka University	Japan	59	
+76	University of Texas at Austin	United States	41.8	
+77	University of Tübingen	Germany	42.5	
+78	University of St Andrews	United Kingdom	40.3	
+79	University of Maryland, College Park	United States	38.3	
+79	Trinity College Dublin	Ireland	40.5	
+79	University of York	United Kingdom	35.7	
+82	University of Aberdeen	United Kingdom	45.1	
+82	Purdue University	United States	47.8	
+84	University of Freiburg	Germany	43.9	
+85	University of East Anglia	United Kingdom	28.4	
+86	Swedish University of Agricultural Sciences	Sweden	52.8	
+87	University of California, Riverside	United States	40.6	
+88	Brown University	United States	51.3	
+88	University of New South Wales	Australia	31.4	
+90	University of California, Santa Cruz	United States	31.9	
+90	École Normale Supérieure	France	36.5	
+90	University of Exeter	United Kingdom	28.4	
+93	Arizona State University	United States	24.8	
+93	University of Reading	United Kingdom	47.5	
+95	James Cook University	Australia	27.6	
+96	University of Florida	United States	58.4	
+96	University of Vienna	Austria	44	
+98	Aarhus University	Denmark	36.9	
+99	Korea Advanced Institute of Science and Technology (KAIST)	Korea, Republic of	33.6	
+100	Pohang University of Science and Technology	Korea, Republic of	32.5	

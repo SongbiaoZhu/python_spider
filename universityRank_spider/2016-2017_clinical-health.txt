@@ -1,0 +1,101 @@
+Rank	Name	Country/Region	Score	
+1	University of Oxford	United Kingdom	84.9	
+2	Harvard University	United States	85.6	
+3	University of Cambridge	United Kingdom	78.5	
+4	Imperial College London	United Kingdom	83.8	
+5	University of California, Berkeley	United States	79.9	
+6	University College London	United Kingdom	80.8	
+7	Stanford University	United States	86.7	
+8	Johns Hopkins University	United States	84.3	
+9	Columbia University	United States	85.3	
+10	Karolinska Institute	Sweden	81.6	
+11	Duke University	United States	82	
+12	University of California, Los Angeles	United States	88	
+13	University of Melbourne	Australia	80.7	
+14	University of Toronto	Canada	85.5	
+15	University of Pennsylvania	United States	85.7	
+16	King’s College London	United Kingdom	77.3	
+17	Cornell University	United States	82.1	
+17	Yale University	United States	84.3	
+19	University of Washington	United States	79.9	
+20	University of Edinburgh	United Kingdom	74.2	
+21	University of Michigan	United States	83.8	
+22	Washington University in St Louis	United States	76.1	
+23	McGill University	Canada	81.5	
+24	University of Chicago	United States	74	
+25	University of North Carolina at Chapel Hill	United States	79.7	
+26	Boston University	United States	75.6	
+27	McMaster University	Canada	74.1	
+28	Heidelberg University	Germany	75.8	
+29	University of California, San Diego	United States	64.4	
+29	Northwestern University	United States	71.4	
+31	National University of Singapore	Singapore	72.4	
+32	University of British Columbia	Canada	59.9	
+32	LMU Munich	Germany	67.9	
+34	University of Tokyo	Japan	83.7	
+35	University of Sydney	Australia	61.7	
+36	University of Pittsburgh	United States	66.1	
+37	KU Leuven	Belgium	47.3	
+38	New York University	United States	71.8	
+39	University of Hong Kong	Hong Kong, China	68.1	
+40	Emory University	United States	62.1	
+41	Monash University	Australia	59.8	
+42	Erasmus University Rotterdam	Netherlands	52.1	
+43	University of Queensland	Australia	53.8	
+44	Vanderbilt University	United States	60.8	
+45	Case Western Reserve University	United States	63.6	
+46	University of Manchester	United Kingdom	50.4	
+47	University of Glasgow	United Kingdom	44.8	
+48	University of Minnesota	United States	60.8	
+49	Uppsala University	Sweden	47.2	
+50	University of Southern California	United States	54.5	
+51	University of Montreal	Canada	53.8	
+52	Seoul National University	Korea, Republic of	75.3	
+52	Utrecht University	Netherlands	49.3	
+54	Leiden University	Netherlands	52.2	
+55	University of Amsterdam	Netherlands	52.1	
+56	Technical University of Munich	Germany	53.5	
+57	Tufts University	United States	53.4	
+58	Tsinghua University	China	56.2	
+59	University of Liverpool	United Kingdom	49.1	
+59	Maastricht University	Netherlands	58.4	
+61	University of Cape Town	South Africa	39.2	
+62	University of Copenhagen	Denmark	52.7	
+63	Kyoto University	Japan	75	
+64	Dartmouth College	United States	47.5	
+65	Queen Mary University of London	United Kingdom	34.6	
+66	University of Basel	Switzerland	36.6	
+66	Lund University	Sweden	43.3	
+66	University of Zurich	Switzerland	51.1	
+69	University of Bristol	United Kingdom	29.1	
+70	University of California, Davis	United States	49.3	
+71	University of Wisconsin-Madison	United States	55	
+72	Sungkyunkwan University (SKKU)	Korea, Republic of	67.5	
+73	University of Alberta	Canada	47.6	
+74	University of Auckland	New Zealand	39.5	
+75	Peking University	China	74.7	
+76	University of Tübingen	Germany	36.9	
+77	University of the Witwatersrand	South Africa	25.2	
+78	University of Calgary	Canada	36.9	
+78	Chinese University of Hong Kong	Hong Kong, China	52.4	
+80	University of Dundee	United Kingdom	38.1	
+81	University of New South Wales	Australia	31.7	
+82	University of Bern	Switzerland	40.5	
+83	University of Barcelona	Spain	37.8	
+84	Ohio State University	United States	46.6	
+85	University of Virginia	United States	45	
+86	Australian National University	Australia	34.6	
+86	Autonomous University of Barcelona	Spain	37	
+86	University of Western Australia	Australia	27.7	
+89	University of Florida	United States	51.6	
+90	University of Helsinki	Finland	33.6	
+90	University of Miami	United States	40.4	
+92	University of Groningen	Netherlands	27.3	
+93	Fudan University	China	61.3	
+94	Aarhus University	Denmark	33.9	
+95	University of Oslo	Norway	37.8	
+96	University of Leicester	United Kingdom	27.3	
+97	University of Gothenburg	Sweden	25.7	
+97	University of Otago	New Zealand	35.8	
+99	Paris-Sud University	France	32.5	
+99	Western University	Canada	38.6	
