@@ -1,0 +1,106 @@
+罗敏敏 博士
+北京生命科学研究所资深研究员
+Minmin Luo, Ph.D. Investigator, NIBS, Beijing, China
+Phone：010-80726688-8320
+Fax： 010-80723342
+E-mail：luominmin@nibs.ac.cn
+教育经历
+Education
+2000
+美国宾夕法尼亚大学神经学博士
+Ph. D. Neuroscience, 2000, University of Pennsylvania, USA
+1997
+美国宾夕法尼亚大学 计算机科学硕士
+M.S. Computer Science, 1997，University of Pennsylvania, USA
+1995
+北京大学心理学学士
+B.S. Psychology，1995，Peking University, China
+工作经历
+Professional Experience
+2013-present
+北京生命科学研究所资深研究员
+Investigator, National Institute of Biological Sciences, Beijing, China
+2010-2013
+北京生命科学研究所高级研究员
+Associate Investigator in the National Institute of Biological Sciences, Beijing, China
+2005-2010
+北京生命科学研究所研究员
+Assistant Investigator in the National Institute of Biological Sciences, Beijing, China
+Recipient of HFSP Young Investigators Award (2006-2009) and NSFC Young Investigator Award (2006-2009)
+2004 -2005
+中科院神经科学研究所研究员
+Investigator in the Institute of Neuroscience of Chinese Academy of Sciences
+2000-2004
+杜克大学神经生物学系博士后
+Postdoctoral Fellow with Lawrence C. Katz in HHMI and the Department of Neurobiology, Duke University, USA
+Recipient of
+研究兴趣
+奖赏与惩罚驱使动物接近或逃避、产生快乐与痛苦、并指导学习与记忆形成。奖赏与惩罚关乎动物的生死与种系繁衍、并在人类的日常生活中影响情绪与情感。小鼠与人有类似的神经环路，并对奖赏与惩罚有相似的行为反应。我们实验室以转基因小鼠为模型，研究哺乳动物处理奖赏与惩罚的神经环路机制，特别是中缝背核及内侧缰核两个脑区及相连的神经环路的作用。我们运用电生理和光学成像，从清醒小鼠中记录特定类型神经元的在奖赏与惩罚相关行为中的反应特点。继而运用光遗传学及化学遗传学手段，检测激活、抑制、损毁相关神经元对于行为的影响。我们也利用全细胞膜片钳和光学成像等手段，探索不同药物及细胞信号转导途径在奖赏与惩罚行为中的作用及分子细胞机制。脑内处理奖赏与惩罚的神经环路异常导致多种人类精神疾病，包括抑郁、精神分裂、药物成瘾等。因此，我们的工作不仅有助于理解与奖赏与惩罚相关行为的神经生物学基础，亦可具有临床意义。
+Reward and punishment motivate animal behaviors, produce the feelings of pleasure and disappointment, and guide learning and memory formation. They are a matter of life and death for an individual as well as the species, and affect mood and emotion in our daily life. Mice share with humanskey features of reward- and punishment-related behaviors and theunderlying neural pathways. Using genetically modified mice as the model system, my laboratory studies how neural circuits organize behavioral responses to reward and punishment. At present we focus on the dorsal raphe nucleus and the medial habenula, as well as their interconnected brain areas. Using electrophysiological and optical approaches, we record the activity patterns of genetically identified neuron types from behaving mice. We also combine optogenetics and chemogenetics to examine how stimulation, inhibition, or lesion of specific neurons affects animal behaviors. Finally, we carry out whole-cell patch recordings from brain slices to study the effects of drugs and cellular signal transduction pathways. The dysfunctions of reward and punishment processing are associated with several devastating psychiatric disorders, such as depression, schizophrenia, and drug addiction. Thus, our study not only help understand the neurobiological basis of some fundamental animal behaviors but also may facilitate clinical efforts toward the cure of mental diseases. 
+论文发表
+1.
+Wang D, He X, Zhao Z, Feng Q, Lin R, Sun Y, Ding T, Xu FCA, Luo MCA, Zhan CCA (2015) Whole-brain mapping of the direct inputs and axonal projections of pro-opiomelanocortin (POMC) and agouti-related peptide (AgRP) neurons. Front. Neuroanat. |DOI 10.3389/fnana.2015.00040
+2.
+Guo Q, Wang D,He X,Feng Q, Lin R, Xu F, Fu L, Luo MCA (2015)Whole-brain mapping of inputs to projection neurons and cholinergic interneurons in the dorsal striatum. PLOS One DOI: 10.1371/journal.pone.0123381. 
+3.
+Zhou J, Jia C, Feng Q, Bao J, Luo MCA (2015) Prospective coding ofdorsal raphe rewardsignals by the orbitofrontal cortex. J Neurosci 35:2717-2730. 
+4.
+Liu Z*, Zhou J*, Li Y, Hu F, Wang D, Lu Y, Ma M, FengQ, Zhang J, ZengJ, Bao, KimJ, ChenZ, MestikawySE, Luo MCA (2014) Dorsal raphe neurons signal reward through 5-HT and glutamate. Neuron81:1360–1374. (Faculty1000 Prime)
+5.
+Han Y, Shi Y-F, Xi W, Zhou R, Tan Z-B, Wang H, Li X-M, Chen Z, Feng G, Luo M, Huang Z-L, Duan SCA, Yu Y-QCA (2014) Selective Activation of Cholinergic Basal Forebrain Neurons Induces Immediate Sleep-wake Transitions.Current Biology24:693–698
+6.
+Wang S, Tan Y, Zhang J, Luo MCA (2013) Pharmacogenetic activation of midbrain dopamine neurons produces hyperactivity. Neurosci Bulletin 29:517-524.
+7.
+Zhan CCA, Zhou J, Feng Q, Zhang J, Lin S, Bao J, Wu P, Luo MCA (2013) Acute and long-term suppression of feeding behavior by POMC neurons in the brainstem and hypothalamus, respectively.J Neurosci33:3624 –3632. (Faculty1000 Prime)
+8.
+Hu F, Ren J, Zhang J, Zhong W, Luo MCA (2012) Atrial natriuretic peptide blocks synaptic transmission by activating Phosphodiesterase 2Aand eliminating basal PKA activity in presynaptic terminals. PNAS 109: 17681–17686.(Faculty1000 Prime)
+9.
+Ma M, Luo MCA (2012) Optogenetic activation of basal forebrain cholinergic neurons modulates neuronal excitability and sensory responses in the main olfactory bulb. J Neurosci32:10105-10116. (TWIJ feature article). 
+10.
+Luo MCA (2011) Long-range intracortical excitation shapes olfactory processing. Neuron 72:1-3. (Invited preview). 
+11.
+Gong R*, Ding C*, Hu J*, Lu Y, Liu F, Mann E, Xu F, Cohen MB and Luo MCA(2011) Role for the membrane receptor guanylyl cyclase-C in attention deficiency and hyperactive behavior. Science 333:1642-1646. 
+12.
+Zhao S, Ting JT, Atallah HE, Qiu L, Tan J, Gloss B, Augustine GJ, Deisseroth K, Luo M, Graybiel AM, Feng GCA (2011) Cell type–specific channelrhodopsin-2 transgenic mice for optogenetic dissection of neural circuitry function. Nature Methods 8:745-752. 
+13.
+Ren J, Qin C, Hu F, Tan J, Qiu L, Zhao S, Feng G, Luo MCA (2011) Habenula "cholinergic" neurons co-release glutamate and acetylcholine and activate postsynaptic neurons via distinct transmission modes. Neuron 69:445-452. (featured with cover; Faculty1000 Prime)
+14.
+Zhan C, Luo MCA (2010) Diverse patterns of odor representation by neurons in the anterior piriform cortex of awake mice. J Neurosci 30:16662–16672. 
+15.
+Han J, Luo MCA (2010) Loss of CO2 sensing by the olfactory system of CNGA3 knockout mice. Curr Zoology 56: 793−799.
+16.
+Gao L, Hu J, Zhong C, Luo MCA (2010) Integration of CO2 and odorant signals in the mouse olfactory bulb. Neuroscience 170:881–892.
+17.
+Tan J, Savigner A, Ma M, and Luo MCA (2010) Odor information processing by the olfactory bulb analyzed in gene-targeted mice. Neuron 65:912-926. (featured with video abstract) 
+18.
+Luo MCA, Sun L, and Hu J (2009) Neural detection of gases—carbon dioxide, oxygen—in vertebrates and invertebrates. Curr Opinion Neurobiol19：354-361.
+19.
+Sun L, Wan H, Hu J, Han J, Matsunami H, and Luo MCA (2009) Guanylyl cyclase-D in the olfactory CO2 neurons is activated by bicarbonate. PNAS 106:2041-2046.
+20.
+Qin C, Luo MCA(2009) Neurochemical phenotypes of the afferent and efferent projections of the mouse medial habenula. Neuroscience161:827-37
+21.
+Fan S, Luo MCA (2009) The organization of feedback projections in a pathway important for processing pheromonal signals. Neuroscience161:489-500
+22.
+Yan Z, Tan J, Qin C, Lu Y, Ding C, and Luo MCA (2008) Precise circuitry links bilaterally symmetric olfactory maps. Neuron 58:613–624. (featured with a preview)
+23.
+Bian X, Yanagawa Y, Chen WR, and Luo MCA (2008) Cortical-like functional organization of the pheromone-processing circuits in the medial amygdala. J Neurophysiol 99:77-86.
+24.
+Luo MCA (2008) The Necklace Olfactory System in Mammals. J Neurogenetics22:229-238.
+25.
+Hu J*, Zhong C*, Ding C, Chi Q, Walz A, Mombaerts P, Matsunami H, and Luo MCA (2007) Detection of near-atmospheric concentrations of CO2 by an olfactory subsystem. Science 317:953-957. 
+26.
+Grosmaitre X, Santarelli LC, Tan J, Luo M, and Ma MCA (2007) Dual functions of mammalian olfactory sensory neurons as odor detectors and mechanical sensors. Nature Neurosci 10: 348-354.
+27.
+Luo, MCAand Katz LC (2004) Encoding pheromones by the mammalian vomeronasal system. Curr Opinion Neurobiol 14:428-34.
+28.
+Luo, MCA, Fee, MS, and Katz, LC (2003) Encoding pheromonal signals in the accessory olfactory bulb of behaving mice. Science 299:1196-1201 (full article with cover and News and Views; Faculty 1000 recommendation).
+29.
+Luo, M and Perkel, DJ (2002) Intrinsic properties and synaptic input for neurons within an avian motor thalamic nucleus during the phase crucial for song learning. J Neurophysiol 88:1903-1914.
+30.
+Luo, MCA and Katz, LC (2001) Response correlation maps of neurons in the mammalian olfactory bulb. Neuron 32:1165-1179.
+31.
+Luo, M, Ding, L, and Perkel, DJ (2001) An avian basal ganglia pathway essential for vocal learning forms closed topographic loops. J Neurosci 21:6836-45.
+32.
+Luo, M, and Perkel, DJ (1999) A GABAergic, strongly inhibitory projection to a thalamic nucleus in the zebra finch song system. J Neurosci 19:6700-11.
+33.
+Luo, M, and Perkel, DJ (1999) Long-range GABAergic projection in a circuit essential for vocal learning. J Comp Neurol403: 68-84.
