@@ -45,8 +45,8 @@ based on the above script, just crawl the  personal information, Education, Work
 
 Please look at the files with '_new.txt'
 
-Faculty_new.txt
+* Faculty_new.txt
 
-nibsFaculty_new.txt
+* nibsFaculty_new.txt
 
-nibsFacultyWork_new.txt
+* nibsFacultyWork_new.txt
