@@ -1,0 +1,120 @@
+## United Kingdom
+University of Oxford
+University of Cambridge
+Imperial College London
+University College London
+University of Edinburgh
+King’s College London
+University of Manchester
+University of Glasgow
+University of Bristol
+University of Liverpool
+Queen Mary University of London
+University of Leicester
+University of Dundee
+University of Nottingham
+University of Southampton
+Cardiff University
+University of Sheffield
+## United States
+Harvard University
+Stanford University
+Johns Hopkins University
+University of California, Berkeley
+Columbia University
+University of Pennsylvania
+Duke University
+Washington University in St Louis
+Yale University
+University of California, Los Angeles
+University of Washington
+University of California, San Diego
+University of Chicago
+University of Michigan
+University of North Carolina at Chapel Hill
+Northwestern University
+Boston University
+Emory University
+Brown University
+New York University
+University of Pittsburgh
+Vanderbilt University
+University of Minnesota
+University of Southern California
+University of Wisconsin-Madison
+Ohio State University
+Dartmouth College
+Tufts University
+University of California, Davis
+University of Texas at Austin
+University of Florida
+## Australia
+University of Melbourne
+University of Sydney
+Monash University
+University of Queensland
+Australian National University
+University of New South Wales
+## Sweden
+Karolinska Institute
+Uppsala University
+Lund University
+## Canada
+University of Toronto
+McMaster University
+McGill University
+University of British Columbia
+University of Montreal
+University of Alberta
+University of Calgary
+## China
+Tsinghua University
+Peking University
+Fudan University
+## Singapore
+National University of Singapore
+## Germany
+Heidelberg University
+LMU Munich
+Technical University of Munich
+Charité - Universitätsmedizin Berlin
+University of Tübingen
+University of Freiburg
+University of Kiel
+## Hong Kong, China
+University of Hong Kong
+Chinese University of Hong Kong
+## Japan
+University of Tokyo
+Kyoto University
+Osaka University
+## Netherlands
+Erasmus University Rotterdam
+University of Amsterdam
+Leiden University
+Utrecht University
+Maastricht University
+Wageningen University & Research
+University of Groningen
+## Belgium
+KU Leuven
+Ghent University
+## South Korea
+Seoul National University
+Sungkyunkwan University (SKKU)
+## Denmark
+University of Copenhagen
+## South Africa
+University of Cape Town
+## Switzerland
+University of Basel
+University of Bern
+University of Zurich
+## Spain
+Autonomous University of Barcelona
+## Taiwan, China
+National Taiwan University
+## New Zealand
+University of Auckland
+## France
+Paris-Sud University
